@@ -19,6 +19,8 @@ body {
 
 svg {
   background: whitesmoke;
+  border-radius: 10px;
+  border: solid black 1px;
 }
 
 #tooltip {
